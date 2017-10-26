@@ -7,3 +7,6 @@ Hey this is test
 
 - ~~Add redirect to bturner.io~~
 - implement some cms stuff
+#Author: Benjarmain turnher, Spare Pants, Eric Horvat
+#
+#
